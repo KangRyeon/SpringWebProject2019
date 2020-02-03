@@ -49,7 +49,7 @@
     3. Mypage에서 자신의 정보를 변경할 수 있음.
 
 <div align="center">
-    <img src="./image/spring_project_2.jpg", width="400">
+    <img src="./image/spring_project_2.jpg", width="900">
 </div>  
 
 
@@ -109,7 +109,7 @@
     * 과제물(assignment) : 학번이 기본키로 각 학번당 여러 개의 과제물을 갖고 있다.
     
 <div align="center">
-    <img src="./image/spring_project_3.jpg", width="400">
+    <img src="./image/spring_project_3.jpg", width="600">
 </div>  
 
 
@@ -117,5 +117,5 @@
 
 # 파일 설명
 <div align="center">
-    <img src="./image/spring_project_4.jpg", width="600">
+    <img src="./image/spring_project_4.jpg", width="900">
 </div> 
